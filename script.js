@@ -339,19 +339,19 @@ function startPhotoShow() {
             image: './images/nimnim4.png'
         },
         {
-            text: 'MIN',
+            text: 'MINE 😣',
             image: './images/nimnim5.jpg'
         },
         {
-            text: 'BEBEEEE 😂',
+            text: 'NIMDAYS ☀️',
             image: './images/nimnim6.jpg'
         },
         {
-            text: 'NIMDAYS ☀️',
+            text: 'FOTBAR1 📷',
             image: './images/nimnim7.png'
         },
         {
-            text: 'BEBEEEEEEE 💖',
+            text: 'FOTBAR2 📷',
             image: './images/nimnim8.jpg'
         }
     ];
