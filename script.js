@@ -332,15 +332,15 @@ function startPhotoShow() {
         },
         {
             text: 'MY STAR 🌟',
-            image: './images/nimnim3.png'
+            image: './images/nimnim3.jpg'
         },
         {
-            text: 'BEBEEE ❤️',
+            text: 'I LOVE U ❤️',
             image: './images/nimnim4.png'
         },
         {
-            text: 'BEBEEE 🥰',
-            image: './images/nimnim5.png'
+            text: 'MIN',
+            image: './images/nimnim5.jpg'
         },
         {
             text: 'BEBEEEE 😂',
@@ -352,7 +352,7 @@ function startPhotoShow() {
         },
         {
             text: 'BEBEEEEEEE 💖',
-            image: './images/nimnim8.png'
+            image: './images/nimnim8.jpg'
         }
     ];
     
